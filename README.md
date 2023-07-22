@@ -1,5 +1,5 @@
 
-# Titanic-Machine_Learning_from_Disaster
+# Heart Attack Classification
 
 Use machine learning to create a model that predicts whether a person will suffer from Heart failure.
 
